@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+screenshots/
+.DS_Store
+.idea/
+.vscode/
+*.log
+downloaded_files/
+assets/
+saved_cookies/
+latest_logs/
+log/
